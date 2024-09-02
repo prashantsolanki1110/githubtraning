@@ -4,3 +4,6 @@ Emoji
 typeOption
 darkmode 
 color
+payment method
+recive money
+pay money
